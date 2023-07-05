@@ -1,8 +1,8 @@
-# 👋 Welcome to my Profile
+# 👋 Welcome to my Github Profile
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+Hey there! I'm Pelumi, a frontend developer and creative designer. I'm passionate about crafting visually stunning and user-friendly web experiences. This GitHub portfolio serves as a showcase of my work, where I share my projects, designs, and contributions to the development community.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
