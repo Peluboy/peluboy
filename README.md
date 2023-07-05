@@ -6,9 +6,9 @@ Hey there! I'm Pelumi, a front-end developer and creative designer. I'm passiona
 
    <p align="left; display: flex; align-items: center"> 
     <img src="https://komarev.com/ghpvc/?username=peluboy&label=Profile%20views&color=0e75b6&style=flat" alt="peluboy" /> 
-   <a href="https://twitter.com/pelumoses" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pelumoses" height="20" width="30" /></a>
-<a href="https://linkedin.com/in/oluwapelumi ogunmuyiwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwapelumi ogunmuyiwa" height="20" width="30" /></a>
    </p>
+    <a href="https://twitter.com/pelumoses" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pelumoses" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/oluwapelumi ogunmuyiwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwapelumi ogunmuyiwa" height="20" width="30" /></a>
 
 ---
 
