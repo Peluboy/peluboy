@@ -5,6 +5,7 @@
 Hey there! I'm Pelumi, a front-end developer and creative designer. I'm passionate about crafting visually stunning and user-friendly web experiences. This GitHub portfolio serves as a showcase of my work, where I share my projects, designs, and contributions to the development community.
 
    <p align="left"> <a href="https://twitter.com/pelumoses" target="blank"><img src="https://img.shields.io/twitter/follow/pelumoses?logo=twitter&style=for-the-badge" alt="pelumoses" /></a> </p>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=peluboy&label=Profile%20views&color=0e75b6&style=flat" alt="peluboy" /> </p>
 
 ---
 
