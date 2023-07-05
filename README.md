@@ -1,8 +1,8 @@
 # 👋 Welcome to my Github Profile
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Frontend Developer and Creative Designer`**
 
-Hey there! I'm Pelumi, a frontend developer and creative designer. I'm passionate about crafting visually stunning and user-friendly web experiences. This GitHub portfolio serves as a showcase of my work, where I share my projects, designs, and contributions to the development community.
+Hey there! I'm Pelumi, a front-end developer and creative designer. I'm passionate about crafting visually stunning and user-friendly web experiences. This GitHub portfolio serves as a showcase of my work, where I share my projects, designs, and contributions to the development community.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
